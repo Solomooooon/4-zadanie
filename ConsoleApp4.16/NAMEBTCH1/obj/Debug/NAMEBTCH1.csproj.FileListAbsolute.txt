@@ -1,0 +1,2 @@
+C:\Users\Auga's PC\source\repos\NAMEBTCH1\NAMEBTCH1\obj\Debug\NAMEBTCH1.csproj.AssemblyReference.cache
+C:\Users\Auga's PC\source\repos\NAMEBTCH1\NAMEBTCH1\obj\Debug\NAMEBTCH1.csproj.CoreCompileInputs.cache
